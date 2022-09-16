@@ -17,6 +17,8 @@
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcosta&layout=compact&theme=tokyonight"/>
 </div>
 
+🔗❤  Let's get connected:
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TZkHwqPA)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardojosecosta/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.j.costa/)
