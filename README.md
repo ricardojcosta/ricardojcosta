@@ -13,8 +13,9 @@
   🌱 Eu estou estudando programação web como foco em Fullstack
 
 <div>
-   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=ricardojcosta&show_icons=true&theme=tokyonight"/>
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcosta&layout=compact&theme=tokyonight"/>
+   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ricardojcosta&show_icons=true&theme=tokyonight"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcosta&layout=compact&theme=tokyonight"/>
 </div>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TZkHwqPA)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardojosecosta/)
