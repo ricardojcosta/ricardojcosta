@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<p> Eu sou Ricardo José Costa
+  🙎‍♂️ Eu sou Ricardo José Costa
+  
+  🔭 No momento estou trabalhando no SENAI/SC
+  
+  👨‍🏫 Professor de cursos técnicos na área de Tecnologia da Informação
+   
+  👨‍💻 Desenvolvedor web front-end
+  
+  🎓Formado em Redes de Computadores | Segurança em Redes de Computadores
+    
+  🌱 Eu estou estudando programação web como foco em Fullstack
 
-<!--
-**ricardojcosta/ricardojcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
