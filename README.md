@@ -12,7 +12,7 @@ ________________________________________________________________________________
   
     🎓Formado em Redes de Computadores | Segurança em Redes de Computadores
     
-    🌱 Eu estou estudando programação web como foco em Fullstack
+    🌱 Eu estou estudando programação web com foco em Fullstack
 
 <div>
    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=ricardojcosta&show_icons=true&theme=tokyonight"/>
