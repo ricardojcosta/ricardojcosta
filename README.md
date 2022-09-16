@@ -14,7 +14,7 @@
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardojcosta&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcosta&layout=compact&theme=tokyonight"/>
 </div>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](ricardo.j.costa#1302)
