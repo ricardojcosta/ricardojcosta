@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p> Eu sou Ricardo José Costa
+
 <!--
 **ricardojcosta/ricardojcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
