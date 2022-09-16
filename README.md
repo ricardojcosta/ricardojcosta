@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
   🙎‍♂️ Eu sou Ricardo José Costa
   
