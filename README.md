@@ -5,9 +5,9 @@
   
     🔭 No momento estou trabalhando no SENAI/SC
   
-    👨‍🏫 Professor de cursos técnicos na área de Tecnologia da Informação
+    👨‍🏫 Especialista de Ensino na Área de Tecnologia da Informação
    
-    👨‍💻 Desenvolvedor web front-end
+    👨‍💻 Tenho conhecimento nas áreas de redes de computadores, cloud, programação
   
     🎓Formado em Redes de Computadores | Segurança em Redes de Computadores
     
@@ -26,7 +26,7 @@
 
 🛠️ Technologies e Tools I use:
 
-<img align="center" alt="Ricardo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img align="center" alt="Ricardo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img align="center" alt="Ricardo-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img align="center" alt="Ricardo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="center" alt="Ricardo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img align="center" alt="Ricardo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img align="center" alt="Ricardo-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img align="center" alt="Ricardo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> <img align="center" alt="Ricardo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Ricardo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 
 
